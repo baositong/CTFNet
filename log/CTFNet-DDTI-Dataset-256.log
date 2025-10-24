@@ -1,0 +1,2 @@
+[20240225 18:24:21 INFO    ] Namespace(batchsize=16, clip=0.5, decay_epoch=50, decay_rate=0.1, epoch=100, log_file='CTFNet-DDTI-Dataset-256.log', log_path='./log', lr=0.0001, test_path='./dataset/DDTI/', testsize=256, train_path='./dataset/DDTI/train', train_save='CTFNet-DDTI-256', trainsize=256)
+[20240225 18:24:41 INFO    ] 2024-02-25 18:24:41.003207 Epoch [001/100], Step [0009/0028], [lateral-1: 1.1090, lateral-2: 1.1159, lateral-3: 1.1376, lateral-4: 1.1755, lateral-5: 1.2828]
